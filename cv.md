@@ -2,7 +2,7 @@
 
 **FRONTEND-DEVELOPER**
 Minsk, (work remotely/office work, ready for relocation) 
-Age: 25 years old
+*Age*: 25 years old
 
 
 **Work experience**
