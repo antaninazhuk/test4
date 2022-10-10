@@ -57,7 +57,6 @@ React
 Git
 React router dom
 Redux
-Typescript
 Sass
 Bootstrap
 Styled-components
